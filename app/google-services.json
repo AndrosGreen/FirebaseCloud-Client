@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130215439205",
+    "project_id": "testfire-707f0",
+    "storage_bucket": "testfire-707f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130215439205:android:0d4c619c6948e69b820f8c",
+        "android_client_info": {
+          "package_name": "andres.com.example.firebasecloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130215439205-i8gtgs4b5do8rl92kqt6h87t68b1oru7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBag2Y9KXWpP2hWLeT4-S5uvsEFpYbhTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130215439205-i8gtgs4b5do8rl92kqt6h87t68b1oru7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
